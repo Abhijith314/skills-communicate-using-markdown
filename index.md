@@ -8,3 +8,10 @@
 ###### H6
 ## STEP 2 : Adding an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## STEP3 : Adding a code example
+``` C
+printf("Hello World");
+```
+``` python
+print("Hello World")
+```
